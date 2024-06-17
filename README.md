@@ -1,9 +1,9 @@
-Olá! Eu sou o kirito.stormrework :zap:
+:zap: Hello! I am kirito.stormrework :zap:
 
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/AnYC2H27Kj) 
 
-## Tecnologias que uso em meu dia a dia
+## Technologies I use in my daily life
 
 <div style="display: inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  />
